@@ -1,6 +1,6 @@
 {
   "name": "dingyw-cli",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "一个用于快速创建React和Vue项目的前端脚手架工具",
   "main": "bin/index.js",
   "bin": {
