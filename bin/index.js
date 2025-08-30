@@ -32,9 +32,9 @@ program
 program.on('--help', () => {
   console.log();
   console.log(chalk.yellow('示例:'));
-  console.log('  $ ding-cli create my-react-app');
-  console.log('  $ ding-cli create my-vue-app -t vue');
-  console.log('  $ ding-cli init -t react');
+  console.log('  $ dingyw-cli create my-react-app');
+  console.log('  $ dingyw-cli create my-vue-app -t vue');
+  console.log('  $ dingyw-cli init -t react');
   console.log();
 });
 
